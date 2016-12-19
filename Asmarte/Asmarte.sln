@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0EB1E4E5-FAF9-492C-A85A-1212D4799016}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D3F83629-FF3B-44A3-AE80-A7C55B2BB3C9}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ASmarte.UI", "src\Asmarte\ASmarte.UI.xproj", "{D115D63B-29F4-4BC4-9FAF-A3AF0ECAAC54}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{71A91152-B323-4C7A-A4FC-5DF5B1782D83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{D1849BFC-C4A9-4752-8C2D-8C21E60025A0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plugins", "Plugins", "{4ECBE5AE-ECEC-4E63-A146-0B6763DCE874}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{A20A58B5-374A-4AB9-BF86-275C75811033}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{4D8FF675-C8EB-4D95-8063-91D4E8D21047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D115D63B-29F4-4BC4-9FAF-A3AF0ECAAC54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D115D63B-29F4-4BC4-9FAF-A3AF0ECAAC54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D115D63B-29F4-4BC4-9FAF-A3AF0ECAAC54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D115D63B-29F4-4BC4-9FAF-A3AF0ECAAC54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D115D63B-29F4-4BC4-9FAF-A3AF0ECAAC54} = {71A91152-B323-4C7A-A4FC-5DF5B1782D83}
+		{71A91152-B323-4C7A-A4FC-5DF5B1782D83} = {0EB1E4E5-FAF9-492C-A85A-1212D4799016}
+		{D1849BFC-C4A9-4752-8C2D-8C21E60025A0} = {0EB1E4E5-FAF9-492C-A85A-1212D4799016}
+		{4ECBE5AE-ECEC-4E63-A146-0B6763DCE874} = {0EB1E4E5-FAF9-492C-A85A-1212D4799016}
+		{A20A58B5-374A-4AB9-BF86-275C75811033} = {0EB1E4E5-FAF9-492C-A85A-1212D4799016}
+	EndGlobalSection
+EndGlobal
