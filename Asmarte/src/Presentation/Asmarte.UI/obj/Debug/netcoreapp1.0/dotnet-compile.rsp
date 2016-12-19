@@ -1,5 +1,5 @@
---temp-output:D:\New folder\Learning\Asmarte\src\Asmarte\obj\Debug\netcoreapp1.0\
---out:D:\New folder\Learning\Asmarte\src\Asmarte\bin\Debug\netcoreapp1.0\Asmarte.dll
+--temp-output:D:\New folder\Learning\Asmarte\src\Presentation\Asmarte.UI\obj\Debug\netcoreapp1.0\
+--out:D:\New folder\Learning\Asmarte\src\Presentation\Asmarte.UI\bin\Debug\netcoreapp1.0\Asmarte.UI.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -8,7 +8,7 @@
 --suppress-warning:CS1705
 --optimize:False
 --emit-entry-point:True
---output-name:Asmarte
+--output-name:Asmarte.UI
 --file-version:1.0.0.0
 --version:1.0.0.0
 --informational-version:1.0.0
@@ -190,7 +190,7 @@
 --reference:C:\Users\asim.w\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\asim.w\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\asim.w\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"D:\New folder\Learning\Asmarte\src\Asmarte\obj\Debug\netcoreapp1.0\Asmartedotnet-compile.deps.json",Asmarte.deps.json
-D:\New folder\Learning\Asmarte\src\Asmarte\Program.cs
-D:\New folder\Learning\Asmarte\src\Asmarte\Startup.cs
-D:\New folder\Learning\Asmarte\src\Asmarte\Controllers\HomeController.cs
+--resource:"D:\New folder\Learning\Asmarte\src\Presentation\Asmarte.UI\obj\Debug\netcoreapp1.0\Asmarte.UIdotnet-compile.deps.json",Asmarte.UI.deps.json
+D:\New folder\Learning\Asmarte\src\Presentation\Asmarte.UI\Program.cs
+D:\New folder\Learning\Asmarte\src\Presentation\Asmarte.UI\Startup.cs
+D:\New folder\Learning\Asmarte\src\Presentation\Asmarte.UI\Controllers\HomeController.cs
